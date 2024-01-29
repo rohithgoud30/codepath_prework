@@ -2,7 +2,7 @@
 
 Submitted by: **Rohirh Goud Panjala**
 
-**first_demo_app** is an app that... [TODO] 
+**first_demo_app** is an app that... [first_demo_app] 
 
 Time spent: **2** hours spent in total
 
