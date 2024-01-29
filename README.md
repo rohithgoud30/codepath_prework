@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *first_demo_app*
 
 Submitted by: **Rohirh Goud Panjala**
 
